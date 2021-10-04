@@ -1,0 +1,16 @@
+C:\Users\drmon\source\repos\DunderMifflinTrivia\obj\Debug\net5.0\DunderMifflinTrivia.csproj.AssemblyReference.cache
+C:\Users\drmon\source\repos\DunderMifflinTrivia\obj\Debug\net5.0\DunderMifflinTrivia.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\drmon\source\repos\DunderMifflinTrivia\obj\Debug\net5.0\DunderMifflinTrivia.AssemblyInfoInputs.cache
+C:\Users\drmon\source\repos\DunderMifflinTrivia\obj\Debug\net5.0\DunderMifflinTrivia.AssemblyInfo.cs
+C:\Users\drmon\source\repos\DunderMifflinTrivia\obj\Debug\net5.0\DunderMifflinTrivia.csproj.CoreCompileInputs.cache
+C:\Users\drmon\source\repos\DunderMifflinTrivia\bin\Debug\net5.0\DunderMifflinTrivia.exe
+C:\Users\drmon\source\repos\DunderMifflinTrivia\bin\Debug\net5.0\DunderMifflinTrivia.deps.json
+C:\Users\drmon\source\repos\DunderMifflinTrivia\bin\Debug\net5.0\DunderMifflinTrivia.runtimeconfig.json
+C:\Users\drmon\source\repos\DunderMifflinTrivia\bin\Debug\net5.0\DunderMifflinTrivia.runtimeconfig.dev.json
+C:\Users\drmon\source\repos\DunderMifflinTrivia\bin\Debug\net5.0\DunderMifflinTrivia.dll
+C:\Users\drmon\source\repos\DunderMifflinTrivia\bin\Debug\net5.0\ref\DunderMifflinTrivia.dll
+C:\Users\drmon\source\repos\DunderMifflinTrivia\bin\Debug\net5.0\DunderMifflinTrivia.pdb
+C:\Users\drmon\source\repos\DunderMifflinTrivia\obj\Debug\net5.0\DunderMifflinTrivia.dll
+C:\Users\drmon\source\repos\DunderMifflinTrivia\obj\Debug\net5.0\ref\DunderMifflinTrivia.dll
+C:\Users\drmon\source\repos\DunderMifflinTrivia\obj\Debug\net5.0\DunderMifflinTrivia.pdb
+C:\Users\drmon\source\repos\DunderMifflinTrivia\obj\Debug\net5.0\DunderMifflinTrivia.genruntimeconfig.cache
